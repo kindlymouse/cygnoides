@@ -1,0 +1,3 @@
+<chart palette='3' bgColor='FFFFFF' bgAlpha='0' showBorder='0' lowerLimit='-50' upperLimit='50' numberSuffix='' majorTMHeight='4' minorTMNumber='5' useSameFillColor='0' showTickValues='1' decimalPrecision='0' chartTopMargin='5' chartLeftMargin='5'>
+	<value>24.0</value>
+</chart>
