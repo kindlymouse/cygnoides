@@ -16,11 +16,12 @@
 
 <link type="image/x-icon" href="${ctx}/static/images/favicon.ico" rel="shortcut icon">
 <link href="${ctx}/static/bootstrap/2.2.2/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-<link href="${ctx}/static/styles/smoothness/jquery-ui-1.10.1.custom.css" type="text/css" rel="stylesheet" />
+<link href="${ctx}/static/jquery-ui/smoothness/jquery-ui-1.10.1.custom.min.css" type="text/css" rel="stylesheet" />
 <link href="${ctx}/static/jquery-validation/1.10.0/validate.css" type="text/css" rel="stylesheet" />
 <link href="${ctx}/static/styles/default.css" type="text/css" rel="stylesheet" />
 <script src="${ctx}/static/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
-<script src="${ctx}/static/jquery/jquery-ui-1.10.1.custom.js" type="text/javascript"></script>
+<script src="${ctx}/static/jquery/jquery.number.min.js" type="text/javascript"></script>
+<script src="${ctx}/static/jquery-ui/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>
 <script src="${ctx}/static/jquery-validation/1.10.0/jquery.validate.min.js" type="text/javascript"></script>
 <script src="${ctx}/static/jquery-validation/1.10.0/messages_bs_zh.js" type="text/javascript"></script>
 <script src="${ctx}/static/fusionchart/Charts/FusionCharts.js" type="text/javascript"></script>
